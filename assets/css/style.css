@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+body .main {
+  overflow: hidden;
+  position: relative;
+  width: 90%;
+  height: 90%;
+  border: 1px solid black;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+body .main__gameover {
+  display: none;
+  font-size: 3vw;
+}
+body .main__start {
+  display: block;
+  font-size: 3vw;
+}
+body .main__balle {
+  display: none;
+  position: absolute;
+  width: 2%;
+  height: 4%;
+  bottom: 50%;
+  right: 50%;
+  background-color: black;
+  border-radius: 50%;
+}
+body .main__barre {
+  position: absolute;
+  width: 10%;
+  height: 3%;
+  bottom: 5%;
+  right: 45%;
+  background-color: gray;
+}/*# sourceMappingURL=style.css.map */
