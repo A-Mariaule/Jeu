@@ -3,8 +3,8 @@
 réalisé en décembre 2022 par Mariaule Aurélien 
 
 ## Techno utilisées
--HTML
+- HTML
 
--CSS
+- CSS
 
--JS
+- JS
