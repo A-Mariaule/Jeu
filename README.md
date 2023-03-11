@@ -2,6 +2,10 @@
 
 réalisé en décembre 2022 par Mariaule Aurélien 
 
+## Deployment
+
+[Jeu](https://a-mariaule.github.io/Jeu/)
+
 ## Techno utilisées
 - HTML
 
